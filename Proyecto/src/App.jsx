@@ -1,12 +1,13 @@
-import Testimonios_coments from "./componentes/testimonios_coments.jsx";
-import Testimonios from "./testimonios.jsx";
+import { Fragment } from "react";
+
+import testimonios from './testimonios'
 
 function App() {
   
   return (
     <>
-    <Testimonios/>
-    <Testimonios_coments/>
+          <Testimonios/>
+
     </>
   )
 }

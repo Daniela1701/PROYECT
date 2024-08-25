@@ -11,7 +11,6 @@ function Region_selva() {
            <Selva2/> 
            <Selva3/> 
 
-
         </>
     );
 }

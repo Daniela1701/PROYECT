@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+h1{
+   font-family: Georgia;
+   text-align: justify;
+   font-size: 50px;
+   color: #41379c;
+   padding: 15px;
+}
+
+p{
+   font-family: Georgia;
+   text-align: justify;
+   font-size: 15px;
+   padding: 20px;
+   color: black;
+}
+.section{
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.figure {
+    margin: 15px;
+    margin-bottom: 50px;
+    padding: 1px;
+    margin-top: 10px;
+    background-color: rgb(255, 240, 233);
+    width: 30%;
+    margin-right: 10px;
+    border: 1px solid #6c12c0;
+    border-radius: 8px;
+    box-shadow: 0 0 15px #a65bd8;
+}
+img{
+    width: 65%;
+    height: 200px;
+    border:5px solid rgb(79, 6, 94);
+    border-radius: 100px;
+}
+.iconos{
+    text-align: center;
+    flex-direction: column;
+}
+figcaption{
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+    color: #03bfe0;
+}
+
+figcaption:hover{
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+    color: #103266;
+}
+.opinion{
+    text-align: center;
+    flex-direction: column;
+}
+
+
+.comentarios{
+    width: 50%;
+    margin: 15px;
+    padding: 10px 100px ; 
+}
+.comment-box {
+    margin-bottom: 20px;
+    
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid #36828f;
+    background-color: #f0faf4;
+}
+textarea {
+    resize: none;
+}
+
+.comment-display {
+    margin-top: 30px;
+    background-color: #f0faf4;
+    padding: 20px;
+    border: 2px solid #36828f;
+}
+
+.comment {
+    background-color: #e4e4e4;
+    border: 1px solid #36828f ;
+}
+
+h3 {
+    font-size: 200%;
+    color: #a580f0;
+    
+}
+
+.comment p {
+    margin: 5px 0 0 0;
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    margin: 5px;
+    text-align: center;
+    color: #083824;
+    background-color: #bcf7c4;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+

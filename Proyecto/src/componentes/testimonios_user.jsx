@@ -1,7 +1,7 @@
-import t_user_1 from './imagenes/t_user_1.jpg'
-import t_user_2 from './imagenes/t_user_2.jpg'
-import t_user_3 from './imagenes/t_user_3.jpg'
-import './componentes/testimonios.css'
+import t_user_1 from '../imagenes/t_user_1.jpg'
+import t_user_2 from '../imagenes/t_user_2.jpg'
+import t_user_3 from '../imagenes/t_user_3.jpg'
+import '../componentes/testimonios.css'
 
 function Testimonios_user() {
   

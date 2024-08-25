@@ -1,13 +1,10 @@
-import { Fragment } from "react";
-
-import testimonios from './testimonios'
+import Testimonios from './testimonios'
 
 function App() {
   
   return (
     <>
           <Testimonios/>
-
     </>
   )
 }

@@ -1,4 +1,4 @@
-import user1 from './imagenes/t_user_1.jpg'
+import user1 from './imagenes/t_user_1.jpg';
 
 function testimonios_titulo() {
     return (
@@ -26,4 +26,4 @@ function testimonios_titulo() {
     )
   }
   
-  export default testimonios_titulo
+  export default testimonios_titulo;

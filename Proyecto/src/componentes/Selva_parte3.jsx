@@ -6,7 +6,7 @@ function Selva3() {
     return (
     <>
     <div className="section">
-       <div class="titulo">
+       <div class="parte1">
         <h2>Paquetes para viajes de promoción</h2>
        </div>
        <div className='figure'>
@@ -14,14 +14,14 @@ function Selva3() {
                    <img src={lamerced2} />
                 </div>
                 <div class="lugares">
-                    <figcaption>
+                    <p className='destino'>
                         La Merced, Valle del Perené, Oxapampa 
-                    </figcaption> <br />
+                    </p> <br />
                     <div class="dias">
-                    <p>
-                      3D/2N
-                    </p>
-                    </div>
+                      <p>
+                         6D/5N
+                      </p>
+                     </div>
                     <h3 class="precio">S/.530 por alumno</h3>
                     <div class="paquete">
                         <button type="button" onclick="paqute4()">
@@ -63,7 +63,7 @@ function Selva3() {
             </figcaption><br />
             <div class="dias">
                 <p>
-                    5D/3N
+                    5D/4N
                 </p>
             </div>
                 <h3 class="precio">S/.980 por alumno</h3>

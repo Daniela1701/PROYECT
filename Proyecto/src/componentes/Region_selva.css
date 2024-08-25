@@ -6,21 +6,28 @@
 }
 
 .portada{
-    color: rgb(238, 206, 119);
     font-size: 300%;
     text-align: center;
     padding: 50px;
     width: 94%;
     height: 500px;
     background: url(../imagenes/Principal.jpg) ;
+    
+ 
+}
+.titulo{
+    color: rgb(15, 224, 102);
+    background-color: rgba(203, 209, 201, 0.349);
+    margin: 0px 400px;
 }
 
 
-.titulo{
+
+.parte1{
     font-size: 250%;
     font-family: Georgia; 
     text-align: center; 
-    color: #8fa05f;  
+    color: #59750d;  
 }
 .section{
     justify-content: center;
@@ -41,7 +48,7 @@
     background-color: white;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
-img{
+.figure img{
     max-width: 100%;
     margin: 10px auto;
     border-radius: 8px;

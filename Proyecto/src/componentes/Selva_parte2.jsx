@@ -14,10 +14,10 @@ function Selva2() {
                     Oxapampa,Pozuzo y Villa Rica  
                     </figcaption><br />
                     <div class="dias">
-                        <p>
-                           3D/2N
-                        </p>
-                    </div>
+                      <p>
+                    4D/3N
+                      </p>
+                      </div>
                     <h3 class="precio">S/.295</h3>
                     <div class="paquete">
                         <button type="button" onclick="paqute1()">
@@ -36,9 +36,9 @@ function Selva2() {
                     Iquitos Amazonas  
                     </figcaption><br />
                     <div class="dias">
-                        <p>
-                          5D/4N
-                        </p>
+                       <p>
+                       5D/4N
+                       </p>
                     </div>
                     <h3 class="precio">S/.670</h3>
                     <div class="paquete"  >
@@ -57,10 +57,10 @@ function Selva2() {
                         Chanchamayo, Oxapampa,Pozuzo y Villa Rica 
                     </figcaption>
                     <div class="dias">
-                       <p>
-                          5D/4N
-                       </p>
-                    </div>
+                        <p>
+                         6D/5N
+                        </p>
+                        </div>
                     <h3 class="precio">S/.595</h3>
                     <div class="paquete">
                         <button type="button" onclick="paqute3()">

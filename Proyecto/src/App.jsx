@@ -1,4 +1,4 @@
-import testimonios from "./testimonios"
+import testimonios from "./componentes/testimonios_titulo"
 
 function App() {
   

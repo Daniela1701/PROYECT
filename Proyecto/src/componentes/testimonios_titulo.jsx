@@ -1,10 +1,11 @@
+
 import user1 from './imagenes/t_user_1.jpg';
 
 function testimonios_titulo() {
     return (
     <>
-        <h1>BLABLABLA</h1>
         <div className='section'>
+         <h1>BLABLABLA</h1>
             <div className="figure">
                 <figcaption> @Sonne_peruvian24</figcaption>
                    <div class="iconos">

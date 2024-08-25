@@ -1,4 +1,4 @@
-import testimonios_titulo from "./componentes/testimonios_titulo.jsx";
+import testimonios_titulo from "./componentes/testimonios_titulo"
 
 function testimonios(){
     return(
@@ -7,4 +7,4 @@ function testimonios(){
       </>
     );
   }
-  export default testimonios;
+  export default testimonios

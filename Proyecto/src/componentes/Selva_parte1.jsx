@@ -9,7 +9,7 @@ function Selva1() {
           <div className="titulo">
            <h1>SELVA</h1>
            <h4>DE LA SELVA SU ENCANTO</h4>
-           </div>
+          </div>
         </div> 
          <div class="parte1">
          <h2>Paquetes en oferta</h2>

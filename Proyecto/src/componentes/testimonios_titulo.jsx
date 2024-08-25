@@ -1,7 +1,6 @@
 import user1 from './imagenes/t_user_1.jpg'
 
 function testimonios_titulo() {
-
     return (
     <>
         <h1>BLABLABLA</h1>

@@ -1,6 +1,6 @@
-import user1 from './imagenes/user1.jpg'
-import user2 from './imagenes/user2.jpg'
-import user3 from './imagenes/user3.jpg'
+import user1 from './imagenes/t_user_1.jpg'
+import user2 from './imagenes/t_user_2.jpg'
+import user3 from './imagenes/t_user_3.jpg'
 
 function testimonios_titulo() {
 
@@ -11,7 +11,7 @@ function testimonios_titulo() {
         <div className="figure">
             <figcaption> @Sonne_peruvian24</figcaption>
             <div class="iconos">
-             <img src={user1} className="user" />
+             <img src={user1} />
             </div>     
             <p className="texto">
                 "Tuve un viaje maravilloso a Trujillo. Desde la asesoría 
@@ -26,7 +26,7 @@ function testimonios_titulo() {
         <div className="figure">
             <figcaption> @Gian_Marco</figcaption>
             <div class="iconos">
-             <img src={user2} className="user" />
+             <img src={user2} />
             </div>     
             <p className="texto">
                "Recomiendo encarecidamente a GW TRAVEL 
@@ -41,7 +41,7 @@ function testimonios_titulo() {
         <div className="figure">
             <figcaption> @Kimberly_Garcia</figcaption>
             <div class="iconos">
-             <img src={user3} className="user" />
+             <img src={user3} />
             </div>     
             <p className="texto">
                 "El servicio al cliente es excepcional. Me ayudaron a 

@@ -1,4 +1,4 @@
-import testimonios from "./componentes/testimonios_titulo"
+import testimonios from "./testimonios.jsx"
 
 function App() {
   

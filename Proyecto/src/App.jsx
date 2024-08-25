@@ -1,10 +1,11 @@
-import Testimonios from './testimonios'
+import Region_selva from "./Region_selva"
+
 
 function App() {
   
   return (
     <>
-          <Testimonios/>
+          <Region_selva/>
     </>
   )
 }
